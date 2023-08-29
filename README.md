@@ -1,1 +1,1 @@
-# bachelor_thesis
+# K-means_customer_segmentation_basedonRFM
